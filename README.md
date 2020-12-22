@@ -164,7 +164,30 @@ State of the Art Analysis & Modeling Technologies http://www.sdw-latam.com/power
 
 #### Anexos
 
-![image](https://user-images.githubusercontent.com/76060654/102250479-a0b16780-3ed1-11eb-953a-62cf21e4652b.png)
+![image](https://user-images.githubusercontent.com/76060654/102923807-69f1c900-445e-11eb-8b4f-50b51f3d68c8.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923815-6c542300-445e-11eb-9706-bac55da52084.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923821-6e1de680-445e-11eb-9695-306b42ce191f.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923826-70804080-445e-11eb-9158-d9b372d83ecc.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923834-72e29a80-445e-11eb-86f5-4f4a8a7260e9.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923839-76762180-445e-11eb-934a-db86ac02dfad.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923844-783fe500-445e-11eb-8b5a-9b777f8e2626.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923883-8988f180-445e-11eb-9dcd-179df64573cb.png)
+
+
+![image](https://user-images.githubusercontent.com/76060654/102923922-973e7700-445e-11eb-93ac-4ac449412c9d.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923931-9a396780-445e-11eb-86d8-78e7773b62ff.png)
+
+![image](https://user-images.githubusercontent.com/76060654/102923934-9c032b00-445e-11eb-8542-3a582ccc1c09.png)
+
+
 
 **Video**
 
